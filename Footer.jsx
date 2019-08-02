@@ -5,31 +5,31 @@ const Footer=()=>{
         
         <div className=" ml-5 row">
         <ul className='col-3 '>PRODUCTS
-            <li>Princes drop</li>
-            <li>new productos</li>
-            <li>Best sales</li>
-            <li>Contact us</li>
-            <li>sitemap</li>
+            <li><a href='#'>Princes drop</a></li>
+            <li><a href='#'>new productos</a></li>
+            <li><a href='#'>Best sales</a></li>
+            <li><a href='#'>Contact us</a></li>
+            <li><a href='#'>sitemap</a></li>
         </ul>
         <ul className="col-3">OUR COMPANY
-            <li>Delyvery</li>
-            <li>legal notice</li>
-            <li>Terms and conditions of use</li>
-            <li>About us</li>
-            <li>Secure payment</li>
+            <li><a href='#'>Delyvery</a></li>
+            <li><a href='#'>legal notice</a></li>
+            <li><a href='#'>Terms and conditions of use</a></li>
+            <li><a href='#'>About us</a></li>
+            <li><a href='#'>Secure payment</a></li>
         </ul>
         <ul className='col-3'>YOUR ACCOUNT
-            <li>Addresses</li>
-            <li>Credits slips</li>
-            <li>Orders</li>
-            <li>Personal info</li>
-            <li>My wishliss</li>
+            <li><a href='#'>Addresses</a></li>
+            <li><a href='#'>Credits slips</a></li>
+            <li><a href='#'>Orders</a></li>
+            <li><a href='#'>Personal info</a></li>
+            <li><a href='#'>My wishliss</a></li>
         </ul>
         <ul className='col-3'>STORE INFORMATION
-            <li>Bicycle store <br/>United states</li>
-            <li>(555)888 888</li>
-            <li>Best sales</li>
-            <li>emp@themevolty.com</li>  
+            <li><a href='#'>Bicycle store <br/>United states</a></li>
+            <li><a href='#'>(555)888 888</a></li>
+            <li><a href='#'>Best sales</a></li>
+            <li><a href='#'>emp@themevolty.com</a></li>  
         </ul>
        <div className="text-white bg-dark w-100 row " role="alert">
             
