@@ -5,31 +5,31 @@ const Footer=()=>{
         
         <div className=" ml-5 row">
         <ul className='col-3 '>PRODUCTS
-            <li><a href='#'>Princes drop</a></li>
-            <li><a href='#'>new productos</a></li>
-            <li><a href='#'>Best sales</a></li>
-            <li><a href='#'>Contact us</a></li>
-            <li><a href='#'>sitemap</a></li>
+            <li><link to='/'>Princes drop</link></li>
+            <li><link to='/'>new productos</link></li>
+            <li><link to='/'>Best sales</link></li>
+            <li><link to='/'>Contact us</link></li>
+            <li><link to='/'>sitemap</link></li>
         </ul>
         <ul className="col-3">OUR COMPANY
-            <li><a href='#'>Delyvery</a></li>
-            <li><a href='#'>legal notice</a></li>
-            <li><a href='#'>Terms and conditions of use</a></li>
-            <li><a href='#'>About us</a></li>
-            <li><a href='#'>Secure payment</a></li>
+            <li><link to='/'>Delyvery</link></li>
+            <li><link to='/'>legal notice</link></li>
+            <li><link to='/'>Terms and conditions of use</link></li>
+            <li><link to='/'>About us</link></li>
+            <li><link to='/'>Secure payment</link></li>
         </ul>
         <ul className='col-3'>YOUR ACCOUNT
-            <li><a href='#'>Addresses</a></li>
-            <li><a href='#'>Credits slips</a></li>
-            <li><a href='#'>Orders</a></li>
-            <li><a href='#'>Personal info</a></li>
-            <li><a href='#'>My wishliss</a></li>
+            <li><link to='/'>>Addresses</link></li>
+            <li><link to='/'>Credits slips</link></li>
+            <li><link to='/'>Orders</link></li>
+            <li><link to='/'>Personal info</link></li>
+            <li><link to='/'>My wishliss</link></li>
         </ul>
         <ul className='col-3'>STORE INFORMATION
-            <li><a href='#'>Bicycle store <br/>United states</a></li>
-            <li><a href='#'>(555)888 888</a></li>
-            <li><a href='#'>Best sales</a></li>
-            <li><a href='#'>emp@themevolty.com</a></li>  
+            <li><link to='/'>Bicycle store <br/>United states</link></li>
+            <li><link to='/'>(555)888 888</link></li>
+            <li><link to='/'>Best sales</link></li>
+            <li><link to='/'>emp@themevolty.com</link></li>  
         </ul>
        <div className="text-white bg-dark w-100 row " role="alert">
             
